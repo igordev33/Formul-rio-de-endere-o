@@ -25,6 +25,10 @@ main > form > input {
     width: 100px;
 }
 
+#bairo {
+    width: 300px;
+}
+
 #numero {
     width: 50px;
 }
