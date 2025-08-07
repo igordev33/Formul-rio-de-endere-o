@@ -1,0 +1,35 @@
+body {
+    padding-top: 20px;
+}
+
+main {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.229);
+}
+
+main > form > input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+
+#cidade {
+    width: 150px;
+}
+
+#estado {
+    width: 100px;
+}
+
+#numero {
+    width: 50px;
+}
+
+#complemento {
+    width: 150px;
+}
+
