@@ -25,7 +25,11 @@ main > form > input {
     width: 100px;
 }
 
-#bairo {
+#bairro {
+    width: 300px;
+}
+
+#rua {
     width: 300px;
 }
 
